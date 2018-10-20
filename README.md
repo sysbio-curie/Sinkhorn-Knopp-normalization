@@ -15,8 +15,8 @@ Use of the algorithm:
 
 ## Effect of unity mean normalization on application of Non-negative matrix factorization to gene expression data
 
-A simple test of how unity mean (of a row, or simulnateously row and column) normalization on application of NMF 
-to gene expression data can be run by
+A simple test of how unity mean (of a row, or simulnateously row and column) normalization affects application of NMF 
+to gene expression data : 
 
      addpath .\test_normalization_on_NMF\; 
      test_normalization1;
